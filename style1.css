@@ -1,0 +1,31 @@
+body {
+	background-color: #1f1f1f; /* Dark gray background color */
+	font-family: Arial, sans-serif; /* Use Arial font */
+	color: white; /* Text color */
+	font-size: 25px;
+	padding: 5px;
+}
+
+h1 {
+	background-color: #333; /* Darker gray for group headings */
+	font-family: Arial, sans-serif;
+	font-size: 35px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid #555; /* Gray border */
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	margin: 5px 0;
+}
+
+li::before {
+	content: ""; /* Bullet point character */
+	margin-right: 10px;
+}
+
