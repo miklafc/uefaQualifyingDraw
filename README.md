@@ -13,6 +13,7 @@ cd uefaQualifyingDraw/
 ```
 python3 uefaQualifyingDraw.py
 ```
+**Note**: to see the draw results open the *groups.html* file.
 
 ## Draw restrictions 
 
