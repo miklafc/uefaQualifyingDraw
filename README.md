@@ -14,7 +14,7 @@ cd uefaQualifyingDraw/
 python3 uefaQualifyingDraw.py
 ```
 
-## Drwa restrictions 
+## Draw restrictions 
 
 Following restrictions were implemented to the draw procedure according to UEFA:
 
