@@ -8,3 +8,8 @@ git clone https://github.com/miklafc/uefaQualifyingDraw.git
 
 cd uefaQualifyingDraw/
 ```
+## Running the scrip
+
+```
+python3 uefaQualifyingDraw.py
+```
